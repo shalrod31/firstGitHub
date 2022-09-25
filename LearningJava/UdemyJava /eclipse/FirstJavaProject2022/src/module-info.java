@@ -1,0 +1,2 @@
+module FirstJavaProject2022 {
+}

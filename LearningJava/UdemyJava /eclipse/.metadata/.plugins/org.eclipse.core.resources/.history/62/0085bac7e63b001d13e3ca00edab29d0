@@ -1,0 +1,26 @@
+package in28minutes.com;
+
+import java.util.Scanner;
+
+public class MenuRunner {
+
+	public static void main(String[] args) {
+		// Type obj = new Type (argument);
+		Scanner scanner = new Scanner(System.in);
+		System.out.println("Enter Number1: ");
+		int number1 = scanner.nextInt();
+		System.out.println("The number you enter is - " + number1);
+
+		// enter Number 2:
+		// 1 - Add
+		// 2- Subtract
+		// 3 - Divide
+		// 4 - Multiply
+		// Choose Operation:
+		// Result is - 8
+		System.out.println("Enter Number2: ");
+		int number2 = scanner.nextInt();
+
+	}
+
+}

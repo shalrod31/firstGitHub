@@ -1,0 +1,44 @@
+package in28minutes.com;
+
+import java.util.Scanner;
+
+import in28mintues.com.SimpleInterestCalculator;
+
+public class MenuRunner {
+
+	public static void main(String[] args) {
+		// Type obj = new Type (argument);
+		Scanner scanner = new Scanner(System.in);
+		System.out.println("Enter Number1: ");
+		int number1 = scanner.nextInt();
+		System.out.println("The number you enter is - " + number1);
+
+		// enter Number 2:
+		// 1 - Add
+		// 2- Subtract
+		// 3 - Divide
+		// 4 - Multiply
+		// Choose Operation:
+		// Result is - 8
+		System.out.println("Enter Number2: ");
+		int number2 = scanner.nextInt();
+		if (number2 == 1) {
+			AddMenu calculator = new AddMenu(number1, number2);
+			System.out.println(AddValue);
+		} else if (number2 == 2) { // you can use many else if. the code will stop at the true or match statement
+			SubtractMenu calculator = new SubtractMenu(number1, number2); 
+			System.out.println(SubtractValue);
+		} else if (number2 == 3) { // you can use many else if. the code will stop at the true or match statement
+			DivideMenu calculator = new DivideMenu(number1, number2);
+			System.out.println(DivideValue);
+		} else if (number2 == 3) { // you can use many else if. the code will stop at the true or match statement
+			MultiplyMenu calculator = new SubtractMenu(number1, number2);
+			System.out.println(MultiplyValue);
+		} else {
+			System.out.println("Error: Choose Operation");
+		}
+	}
+
+}
+
+}

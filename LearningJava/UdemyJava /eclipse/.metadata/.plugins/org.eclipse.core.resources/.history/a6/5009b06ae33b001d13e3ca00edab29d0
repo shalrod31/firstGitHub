@@ -1,0 +1,9 @@
+package in28minutes.com;
+
+public class AddMenu {
+
+	public AddMenu(int number1, int number2) {
+		System.out.println("add");
+	}
+
+}

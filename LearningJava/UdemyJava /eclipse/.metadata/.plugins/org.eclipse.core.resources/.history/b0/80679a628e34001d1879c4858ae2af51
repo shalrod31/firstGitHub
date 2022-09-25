@@ -1,0 +1,20 @@
+package in28mintues.com;
+
+import java.math.BigDecimal;
+
+public class SimpleInterestCalculatorRunner {
+
+	public static void main(String[] args) {
+		SimpleInterestCalculator calculator = new SimpleInterestCalculator("4500.00", "7.5");
+
+		BigDecimal interest = new BigDecimal("7.5");
+		interest.divide(new BigDecimal(100));
+
+		BigDecimal totalValue = calculator.calculatorTotalValue(5); // 5 years
+
+		System.out.println(calculator.getcalculatorTotalValue());
+
+		System.out.println(totalSum);
+	}
+
+}

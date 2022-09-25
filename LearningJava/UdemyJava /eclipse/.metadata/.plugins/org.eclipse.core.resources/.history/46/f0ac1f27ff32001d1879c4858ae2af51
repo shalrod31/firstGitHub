@@ -1,0 +1,14 @@
+package PrimitiveDataTypes;
+
+public class BiNumberRunner {
+
+	public static void main(String[] args) {
+		BiNumber numbers = new BiNumber(2, 3);
+		System.out.println(numbers.add(0, 0));
+		System.out.println(numbers.multipy());
+		System.out.println(numbers.getNumber1());
+		System.out.println(numbers.getNumber2());
+
+	}
+
+}

@@ -1,0 +1,19 @@
+package in28minutes.com;
+
+public class MyChar {
+
+	private char ch;// character field
+
+	public MyChar(char ch) { // MyChar constructor
+		this.ch = ch;
+	}
+
+	public boolean isVcowel() {
+		if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u')
+			;
+		return true;
+
+		return false;
+	}
+
+}

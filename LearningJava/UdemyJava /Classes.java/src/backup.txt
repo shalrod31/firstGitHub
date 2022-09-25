@@ -1,0 +1,5 @@
+Short.MAX_VALUE
+Short.MAX_VALUE
+Short.MIN_VALUE
+BigDecimal interest = new BigDecimal("7.5");
+interest.divide(new BigDecimal (100));

@@ -1,0 +1,19 @@
+package in28minutes.com;
+
+public class MyCharRunner {
+
+	public static void main(String[] args) {
+		MyChar myChar = new myChar ('c');
+		
+		System.out.println(myChar.isVowel());// vowels are a, e, i, o, u and Capitals
+		
+		System.out.println(myChar.isNumber());
+		
+		System.out.println(myChar.isAlphabet());
+		
+		MyChar.printLowerCaseAlphabets();
+		
+		MyChar.printUpperCaseAlphabets();
+	}
+
+}

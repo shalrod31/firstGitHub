@@ -1,0 +1,9 @@
+INDEX VERSION 1.131+/Users/rodneythompson/Documents/LearningJava/UdemyJava /eclipse/.metadata/.plugins/org.eclipse.jdt.core
+2374007555.index
+3633544112.index
+189463826.index
+1865797976.index
+2799324147.index
+862574978.index
+2112430054.index
+1328512804.index
