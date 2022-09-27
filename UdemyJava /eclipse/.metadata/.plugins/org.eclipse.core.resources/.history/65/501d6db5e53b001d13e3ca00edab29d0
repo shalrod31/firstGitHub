@@ -1,0 +1,13 @@
+package in28minutes.com;
+
+import java.math.BigDecimal;
+
+public class Menu {
+	BigDecimal number1;
+	BigDecimal number2;
+
+	public Menu(String number1 String number2) { // constructor, initiate values by call'g class
+		this.number1 = new BigDecimal(number1);
+		this.number2 = new BigDecimal(number2).divide(new BigDecimal(number1));
+
+}

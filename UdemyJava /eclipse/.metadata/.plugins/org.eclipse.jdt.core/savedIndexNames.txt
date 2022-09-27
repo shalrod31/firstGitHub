@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/Users/rodneythompson/Documents/ShaleceJava/firstGitHub/UdemyJava /eclipse/.metadata/.plugins/org.eclipse.jdt.core
+4232423632.index
+189463826.index

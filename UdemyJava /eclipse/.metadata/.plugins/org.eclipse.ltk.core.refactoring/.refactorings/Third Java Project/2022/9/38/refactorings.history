@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Encapsulate field &apos;PrimitiveDataTypes.BiNumber.number2&apos; in &apos;PrimitiveDataTypes.BiNumber&apos;&#x0A;- Original project: &apos;Third Java Project&apos;&#x0A;- Original element: &apos;PrimitiveDataTypes.BiNumber.number2&apos;&#x0A;- Getter method name: &apos;getNumber2&apos;&#x0A;- Setter method name: &apos;setNumber2&apos;&#x0A;- Field visibility: &apos;public&apos;&#x0A;- Use getter and setter methods in declaring type" comments="false" declaring="true" description="Encapsulate field &apos;number2&apos;" flags="589830" getter="getNumber2" id="org.eclipse.jdt.ui.self.encapsulate" input="/src&lt;PrimitiveDataTypes{BiNumber.java[BiNumber^number2" insertion="1" setter="setNumber2" stamp="1663030596545" version="1.0" visibility="1"/>
+</session>
