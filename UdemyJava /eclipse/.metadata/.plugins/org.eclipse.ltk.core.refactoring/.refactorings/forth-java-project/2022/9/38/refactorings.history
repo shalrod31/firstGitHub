@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;forth-java-project&apos;&#x0A;- Original project: &apos;forth-java-project&apos;&#x0A;- Original element: &apos;in28mintues.com.SimpleInterestCalculator.java&apos;" description="Delete element" element1="/src&lt;in28mintues.com{SimpleInterestCalculator.java" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1663187155222" subPackages="false" version="1.0"/>
+</session>

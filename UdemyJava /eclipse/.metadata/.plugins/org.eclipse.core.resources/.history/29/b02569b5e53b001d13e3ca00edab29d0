@@ -1,0 +1,11 @@
+package in28minutes.com;
+
+public class Menu {
+	int number1 = number1;
+	int number2 = number2;
+
+	public Menu(int number1, int number2) {
+		System.out.println("add");
+	}
+
+}
